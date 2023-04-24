@@ -1,5 +1,5 @@
 <h1 align="center">Hey ⚕️, I'm kokushibo17</h1>
-
+<img align="right" alt="AI" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lumenci.com%2Fpost%2Ffuture-of-ai&psig=AOvVaw3uTr5AMvTVC0_yz2s8u7yN&ust=1682429505160000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjJ-r3Qwv4CFQAAAAAdAAAAABAE"
 <h3 align="center">Programming is both my pasttime and my hobby haha ; as being a student from india!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokushibo17&label=Profile%20views&color=0e75b6&style=flat" alt="kokushibo17" /> </p>
